@@ -9,4 +9,5 @@ Witten LC 110
 Email: burt at cs miami edu 
 </pre>
 
-Some information is found in the public [Sketches repository](https://github.com/csc427-252/sketches).
+- There is a [home page](https://www.cs.miami.edu/home/burt/learning/csc427-252) for this course.
+- Some information is found in the public [Sketches repository](https://github.com/csc427-252/sketches).
