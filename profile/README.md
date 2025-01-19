@@ -8,3 +8,5 @@ Witten LC 110
 
 Email: burt at cs miami edu 
 </pre>
+
+Some information is found in the public [Sketches repository](https://github.com/csc427-252/sketches).
